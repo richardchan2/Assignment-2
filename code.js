@@ -119,6 +119,5 @@ function getStats(txt) {
         palindromes: palindromeArray, //done
         longestWords: longestWordArray,
         mostFrequentWords: finalArray,
-		Test: tempArray
     };
 }
